@@ -1,4 +1,4 @@
-# goit-algo-hw-08
+# Task 1
 
 Imagine that during a technical interview you are given the following problem, which you need to solve using a heap.
 
